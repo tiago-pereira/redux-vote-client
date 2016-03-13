@@ -1,10 +1,12 @@
 # redux-learn
 Rep to save redux react es6 tries
 
-
+Tutorial from
 http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html#what-you-will-need
 
 
-- Last step 
+- Bringing it online
 
-npm install --save react-router@2.0.0
+webpack-dev-server to access with localhost:8080
+
+tiago-pereira/redux-vote-server must be online at port 8090
